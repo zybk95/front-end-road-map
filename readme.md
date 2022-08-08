@@ -2,15 +2,19 @@
 
 ## Video Eğitimler
 - [Yazılıma nasıl başlarım?](https://www.youtube.com/watch?v=U6dQVWHqmSM)
+- [Hemşirelikten Yazılıma](https://www.youtube.com/watch?v=7PTq1cxXoN4)
+- [Frontend Geliştiricinin yol haritası](https://www.youtube.com/watch?v=yUf0flw0ka0)
 - [Front-End’e yeni başlayanlara ne önerirsiniz?](https://www.youtube.com/watch?v=c_l31_lmFk8)
 - [HTML Dersleri](https://www.youtube.com/watch?v=jiCSs0Weiqk&list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm)
 - [Sıfırdan CSS Eğitim](https://www.youtube.com/watch?v=yJsq0bqChko&list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y)
 - [CSS Anlat: position & z-index, user agent stylesheet & display ve CSS Flexbox ile ilgili detaylı anlatımlar.](https://www.youtube.com/watch?v=_FLV6X0druY&list=PLadt0EaV4m3CV5URFStcmOMMP-G9Bf8LG)
 - [30 Dakikada CSS](https://www.youtube.com/watch?v=u2r7AzU-vJ8)
+- [İki kutunun yan-yana gelme hikayesi](https://www.youtube.com/watch?v=OaEtW_CSaPk)
+- [45 Dakikada Yeni Başlayanlar İçin SASS](https://www.youtube.com/watch?v=EMCH1NiOJ8Y)
+- [Yeni nesil frontend paketleyici: Parcel](https://www.youtube.com/watch?v=D2dDbhWNBII)*(HTML+CSS Öğreniyoruz serisinde gulp.js ile ilerleniyor, orada PARCEL kullanmanız tavsiye edilir.)*
 - [HTML+CSS Öğreniyoruz](https://www.youtube.com/watch?v=1AhFCvWS-XE&list=PLadt0EaV4m3Ae9mBaQNylUKUaFK38F4EB)
 - [HTML CSS İpuçları](https://www.youtube.com/watch?v=ZoeXTsTw9bM&list=PLadt0EaV4m3AZKZlF-RTIC3v63TDDaksQ)
 - [Gulp.js - Frontend işlerini otomatikleştirin](https://www.youtube.com/watch?v=STxO9XQJ_lg)
-- [45 Dakikada Yeni Başlayanlar İçin SASS](https://www.youtube.com/watch?v=EMCH1NiOJ8Y)
 - [40 Dakikada CSS Grid Yapısı](https://www.youtube.com/watch?v=kI77jbuMU1Y)
 - [CSS Grid | Real world examples](https://www.youtube.com/watch?v=YnYdwezNjNg)
 - [CSS Birimleri(uygun CSS birimlerinin kullanımı)](https://www.youtube.com/watch?v=N5wpD9Ov_To)
