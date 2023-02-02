@@ -25,6 +25,7 @@
 - [BEM Kullanımı](https://www.youtube.com/watch?v=SLjHSVwXYq4)
 - [BEM Kullanımı 2](https://www.youtube.com/watch?v=er1JEDuPbZQ)
 
+## JS Video Eğitimler
 - [JS Başlangıç](https://www.youtube.com/watch?v=rctJFP4-5nU&list=PLf3cxVeAm439cpgIzbcnpbvFkLNw7KYxW)
 
 ## Yardımcı Kaynaklar
