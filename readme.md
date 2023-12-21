@@ -11,8 +11,8 @@
 - [30 Dakikada CSS](https://www.youtube.com/watch?v=u2r7AzU-vJ8)
 - [İki kutunun yan-yana gelme hikayesi](https://www.youtube.com/watch?v=OaEtW_CSaPk)
 - [45 Dakikada Yeni Başlayanlar İçin SASS](https://www.youtube.com/watch?v=EMCH1NiOJ8Y)
-- [45 Dakikada Yeni Başlayanlar İçin SASS]([https://www.youtube.com/watch?v=EMCH1NiOJ8Y](https://www.youtube.com/watch?v=SBGfXFOsRaw))
-- [NVM ve NODE.js kurulumu](https://www.youtube.com/watch?v=D2dDbhWNBII)*(HTML+CSS Öğreniyoruz serisinde gulp.js ile ilerleniyor, orada PARCEL kullanmanız tavsiye edilir.)*
+- [NVM ve NODE.js kurulumu](https://www.youtube.com/watch?v=SBGfXFOsRaw)*(Bir sonraki video serisi için bilgisayarınızda NODE.js kurulu olması gerekmektedir. NODE.js'i nvm kullanarak kurmanız önerilir.)*
+- [Yeni nesil frontend paketleyici: Parcel](https://www.youtube.com/watch?v=D2dDbhWNBII)*(HTML+CSS Öğreniyoruz serisinde gulp.js ile ilerleniyor, orada PARCEL kullanmanız tavsiye edilir.)*
 - [HTML+CSS Öğreniyoruz](https://www.youtube.com/watch?v=1AhFCvWS-XE&list=PLadt0EaV4m3Ae9mBaQNylUKUaFK38F4EB)
 - [HTML CSS İpuçları](https://www.youtube.com/watch?v=ZoeXTsTw9bM&list=PLadt0EaV4m3AZKZlF-RTIC3v63TDDaksQ)
 - [Gulp.js - Frontend işlerini otomatikleştirin](https://www.youtube.com/watch?v=STxO9XQJ_lg)
