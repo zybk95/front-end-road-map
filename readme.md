@@ -13,7 +13,7 @@
 - [45 Dakikada Yeni Başlayanlar İçin SASS](https://www.youtube.com/watch?v=EMCH1NiOJ8Y)
 - [NVM ve NODE.js kurulumu](https://www.youtube.com/watch?v=SBGfXFOsRaw)*(Bir sonraki video serisi için bilgisayarınızda NODE.js kurulu olması gerekmektedir. NODE.js'i nvm kullanarak kurmanız önerilir.)*
 - [Yeni nesil frontend paketleyici: Parcel](https://www.youtube.com/watch?v=D2dDbhWNBII)*(HTML+CSS Öğreniyoruz serisinde gulp.js ile ilerleniyor, orada PARCEL kullanmanız tavsiye edilir.)*
-- [HTML+CSS Öğreniyoruz](https://www.youtube.com/watch?v=1AhFCvWS-XE&list=PLadt0EaV4m3Ae9mBaQNylUKUaFK38F4EB)
+- [HTML+CSS Öğreniyoruz](https://www.youtube.com/watch?v=1AhFCvWS-XE&list=PLadt0EaV4m3Ae9mBaQNylUKUaFK38F4EB) (pug ile yapmayın sadece HTML)
 - [HTML CSS İpuçları](https://www.youtube.com/watch?v=ZoeXTsTw9bM&list=PLadt0EaV4m3AZKZlF-RTIC3v63TDDaksQ)
 - [Gulp.js - Frontend işlerini otomatikleştirin](https://www.youtube.com/watch?v=STxO9XQJ_lg)
 - [40 Dakikada CSS Grid Yapısı](https://www.youtube.com/watch?v=kI77jbuMU1Y)
